@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b299fb1-36a2-47ef-a5b9-a73b50e2dee0" name="Default Changelist" comment="" />
+    <list default="true" id="8b299fb1-36a2-47ef-a5b9-a73b50e2dee0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g4NtKneZsT0tkAxS47i1tN8Nwc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,10 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1597370118225</updated>
       <workItem from="1597370119350" duration="3713000" />
+      <workItem from="1599643913111" duration="484000" />
+      <workItem from="1599702110660" duration="995000" />
+      <workItem from="1599703280729" duration="320000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="127" key="FileChooserDialogImpl" timestamp="1599703111077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="127" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599703111077" />
   </component>
 </project>
