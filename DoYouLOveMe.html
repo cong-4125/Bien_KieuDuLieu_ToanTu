@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #bnt{
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+<h1>Do You Love Me</h1>
+<button onclick="alert('<3')">yes</button>
+<button id="bnt" onmouseover="getPosition()">No</button>
+<script>
+    function getPosition() {
+        let posX = Math.random() * screen.height;
+        let posY = Math.random() * screen.width;
+        let button = document.getElementById("bnt");
+        button.style.top = posX + 'px';
+        button.style.left = posY + 'px';
+    }
+</script>
+</body>
+</html>
